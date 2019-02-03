@@ -1,0 +1,34 @@
+{
+  "name": "indietube",
+  "version": "1.0.0",
+  "description": "A functional clone of youtube made in nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoiElMapa/IndieTube.git"
+  },
+  "keywords": [
+    "Youtube",
+    "indie",
+    "games",
+    "streaming",
+    "video",
+    "upload",
+    "download",
+    "nodejs"
+  ],
+  "author": "ZoiElMapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZoiElMapa/IndieTube/issues"
+  },
+  "homepage": "https://github.com/ZoiElMapa/IndieTube#readme"
+}
